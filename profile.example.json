@@ -1,0 +1,39 @@
+{
+  "name": "你的名字",
+  "page_title": "你的名字 | 个人作品集",
+  "meta_desc": "这是站点描述占位：一句话介绍你的身份、方向与亮点，会显示在搜索引擎与分享卡片上。",
+
+  "hero_eyebrow": "ROBOTICS ENGINEER / 机器人工程师",
+  "hero_line1": "以机械精密为骨，",
+  "hero_line2": "赋予 <em>具身智能</em> 以生机。",
+  "hero_subtitle": "一句话自我介绍占位：我是谁、正在做什么方向、追求什么样的工程目标。建议控制在两行以内。",
+
+  "about_heading": "在机电交叉的纵深里，<br>以严谨工程构筑 <em>自主实体</em>。",
+  "about_p1": "第一段占位：教育背景与专业基本功。学校、专业、排名/绩点亮点，掌握的核心工具链（CAD/仿真/嵌入式等）。",
+  "about_p2": "第二段占位：代表性项目与竞赛经历。讲清你主导过什么、攻克了什么、拿到过哪些有分量的成果。",
+  "about_p3": "第三段占位：工程观或价值观。一段有个人温度的话，让访客记住你是谁，而不只是一串奖项。",
+
+  "stat1_num": "10<span class=\"stat-symbol\">+</span>",
+  "stat1_label": "项科技竞赛奖项（示例）",
+  "stat2_num": "3<span class=\"stat-unit\">代</span>",
+  "stat2_label": "核心项目样机迭代（示例）",
+  "stat3_num": "120<span class=\"stat-symbol\">+</span>",
+  "stat3_label": "小时志愿服务时长（示例）",
+  "stat4_num": "<span class=\"stat-prefix\">Top</span>10<span class=\"stat-symbol\">%</span>",
+  "stat4_label": "专业排名（示例）",
+
+  "location_badge": "中国 · 你的城市",
+  "avatar_title": "个人肖像",
+  "avatar_desc": "一句话介绍占位，点击肖像查看大图时显示。",
+
+  "email": "your-email@example.com",
+  "phone_display": "+86 000-0000-0000",
+  "phone_tel": "00000000000",
+  "github_url": "https://github.com/yourname",
+  "github_text": "github.com/yourname",
+  "wechat_text": "",
+
+  "contact_heading": "探讨 <em>智能机器人</em> 与<br>精密工程的无限可能。",
+  "contact_desc": "合作邀请占位：无论是科研合作、项目攻关还是单纯想交流，都欢迎来信。可注明希望对方提供什么信息。",
+  "footer_slogan": "用心设计，用爱构建。"
+}

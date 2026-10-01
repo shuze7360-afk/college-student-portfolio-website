@@ -1,0 +1,17 @@
+# 个人真实信息（切勿提交！）
+profile.json
+profile.*.json
+!profile.example.json
+
+# 构建产物
+output/
+
+# 原始素材（证书扫描件等隐私文件请放仓库外）
+raw_assets/
+*.psd
+
+# 系统/工具
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
